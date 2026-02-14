@@ -1,4 +1,4 @@
-# Lucerne R User Group | Home
+## Lucerne R User Group | Home
 
 > \# 2026 update in progress...
 
