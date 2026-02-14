@@ -1,6 +1,6 @@
 # Lucerne R User Group | Home
 
-> \# 2026 Update in progress...
+> \# 2026 update in progress...
 
 **Welcome!**
 
